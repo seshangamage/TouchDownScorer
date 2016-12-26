@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TouchDownScorer</string>
+    <string name="school_prompt">Choose a School</string>
+
+    <string-array name="school_arrays">
+        <item>Royal College</item>
+        <item>St. Thomas College</item>
+        <item>Isipathana College</item>
+        <item>Trinity College</item>
+        <item>Nalanda College</item>
+        <item>Mahanama College</item>
+        <item>Ananda College</item>
+        <item>St. Petere\'s College</item>
+        <item>St. Jhoseps\'s College</item>
+    </string-array>
+
+    <string-array name="score_method_arrays">
+        <item>Try</item>
+        <item>Conversion</item>
+        <item>Penalty</item>
+        <item>Drop Goal</item>
+    </string-array>
+
+    <string-array name="score_points">
+        <item>5</item>
+        <item>3</item>
+        <item>2</item>
+    </string-array>
+
+
+</resources>
